@@ -114,6 +114,6 @@ The *Retail & E-Commerce* sector thrives on:
 ## 👋 Connect With Me
 
 Let’s chat Data, Strategy, & Storytelling:  
-- 🐦 Twitter/X: [@demibolt_](https://x.com/dreamboatxii)  
-- 💼 LinkedIn: [Oluwademilade Adeniyi](https://www.linkedin.com/in/andrew-adekanmi/)
+- 🐦 Twitter/X: [@dreamboatxii](https://x.com/dreamboatxii)  
+- 💼 LinkedIn: [Adekanmi Andrew Adeayo](https://www.linkedin.com/in/andrew-adekanmi/)
 ---
