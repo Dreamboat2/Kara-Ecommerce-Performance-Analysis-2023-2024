@@ -1,4 +1,4 @@
-# 📊 KARA PERFORMANCE ANALYSIS
+# 📊 KARA ECOMMERCE PERFORMANCE ANALYSIS (2023-2024)
 
 This project analyzes the return performance of Kara — a retail & e-commerce business — over a selected period (2023–2024). The analysis focuses on customer return behavior, lost revenue, return reasons, shipping efficiency, and product-level trends.
 
