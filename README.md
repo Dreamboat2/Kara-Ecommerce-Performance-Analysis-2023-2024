@@ -4,7 +4,8 @@ This project analyzes the return performance of Kara, a retail & e-commerce busi
 
 🔗 [Download Excel File](https://github.com/Dreamboat2/Kara-Ecommerce-Performance-Analysis-2023-2024/blob/main/Kara%20file.csv)
 
-![TASK 14B - Adekanmi Andrew Adeayo]([https://github.com/user-attachments/assets/7076ea31-a087-4075-83af-f89c418548d3](https://github.com/Dreamboat2/Kara-Ecommerce-Performance-Analysis-2023-2024/blob/main/Kara%20Analysis%20.jpg))
+![TASK 14B - Adekanmi Andrew Adeayo](https://github.com/Dreamboat2/Kara-Ecommerce-Performance-Analysis-2023-2024/blob/main/Kara%20Analysis%20.jpg?raw=true)
+
 
 ---
 ## 🗂 Project Summary
@@ -97,13 +98,6 @@ The *Retail & E-Commerce* sector thrives on:
 - *Power BI* – Data Modeling, DAX, Interactive Dashboards
 - *Excel* – Initial Data Cleaning
 
-
----
-
-## 📈 Dashboard Preview
-
-![KARA Performance Analysis Dashboard](./KARA_Performance_Analysis.png)
-(Add this screenshot to your repo and use the exact filename)
 
 ---
 ## 📁 Project File
